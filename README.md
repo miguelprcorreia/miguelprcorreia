@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Miguel%20Correia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20@%20University%20of%20Minho&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Miguel%20Correia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20@%20University%20of%20Minho&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer+in+the+making;Turning+coffee+%E2%98%95+into+code;Always+learning+%2C+always+building" alt="Typing SVG" />
 
@@ -12,7 +12,7 @@
 
 ```yaml
 name: Miguel Correia
-role: Computer Science Student
+role: Software Engineering Student
 university: University of Minho 🇵🇹
 focus: [Web Development, Algorithms, Backend Development]
 currently_learning: "whatever breaks next 😅"
@@ -29,27 +29,53 @@ fun_fact: "Code, learn, improve, repeat."
 
 ### 🛠️ Tech Stack
 
+#### 💻 Languages
+<div align="center">
+
+![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+#### 🎨 Frameworks & Frontend
+<div align="center">
+
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+</div>
+
+#### 🗄️ Databases
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+#### ⚙️ Tools & Platforms
+<div align="center">
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+<br>
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=haskell,c,java,vue,mysql,git,linux&theme=dark" />
 
 </div>
 
-<div align="center">
-
-![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
+<br>
 
 | Category | Stack |
 |---|---|
-| **Languages** | Haskell · C · Java |
-| **Frontend** | Vue.js |
-| **Databases** | SQL (MySQL) |
+| 💻 **Languages** | Haskell · C · Java |
+| 🎨 **Frameworks** | Vue.js |
+| 🗄️ **Databases** | MySQL |
+| ⚙️ **Tools** | Git · Linux |
 
 ---
 
