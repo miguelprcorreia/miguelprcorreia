@@ -88,7 +88,7 @@ fun_fact: "Code, learn, improve, repeat."
 > 📌 *Coming soon...*
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -115,7 +115,7 @@ fun_fact: "Code, learn, improve, repeat."
 > ℹ️ *This one needs a one-time GitHub Actions setup — [Platane/snk](https://github.com/Platane/snk) generates the SVG automatically on every push.*
 
 ---
-
+-->
 ### 📫 Connect with Me
 
 <div align="center">
