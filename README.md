@@ -81,6 +81,7 @@ fun_fact: "Code, learn, improve, repeat."
 Laboratórios de Informática I - Immutable Towers : https://github.com/miguelprcorreia/Immutable-Towers   [Grade: 15/20] <br>
 Laboratórios de Informática II - Board Game : https://github.com/miguelprcorreia/Board-Game   [Grade: 20/20] <br>
 Laboratórios de Informática III - Flight Management System : https://github.com/miguelprcorreia/Flight-Management-System   [Grade: 19/20] <br>
+Base de Dados - DigiTrip Database : https://github.com/miguelprcorreia/DigiTrip   [Grade: 18/20] <br>
 
 #### 🚀 Personal Projects
 > Experiments with new technologies and side builds outside of university.
