@@ -60,22 +60,16 @@ fun_fact: "Code, learn, improve, repeat."
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=haskell,c,java,vue,mysql,git,linux&theme=dark" />
-
-</div>
-
-<br>
-
 | Category | Stack |
-|---|---|
+|:---:|:---:|
 | 💻 **Languages** | Haskell · C · Java |
 | 🎨 **Frameworks** | Vue.js |
 | 🗄️ **Databases** | MySQL |
 | ⚙️ **Tools** | Git · Linux |
+
+</div>
 
 ---
 
@@ -84,9 +78,9 @@ fun_fact: "Code, learn, improve, repeat."
 #### 🎓 Academic Projects
 > Projects developed at the **University of Minho** — algorithms, programming languages, software engineering, databases, and web development.
 >
-> Laboratórios de Informática I - Immutable Towers : https://github.com/miguelprcorreia/Immutable-Towers   [Grade: 15/20]
-> Laboratórios de Informática II - Board Game : https://github.com/miguelprcorreia/Board-Game   [Grade: 20/20]
-> Laboratórios de Informática III - Flight Management System : https://github.com/miguelprcorreia/Flight-Management-System   [Grade: 19/20]
+> Laboratórios de Informática I - Immutable Towers : https://github.com/miguelprcorreia/Immutable-Towers   [Grade: 15/20] <br>
+> Laboratórios de Informática II - Board Game : https://github.com/miguelprcorreia/Board-Game   [Grade: 20/20] <br>
+> Laboratórios de Informática III - Flight Management System : https://github.com/miguelprcorreia/Flight-Management-System   [Grade: 19/20] <br>
 
 #### 🚀 Personal Projects
 > Experiments with new technologies and side builds outside of university.
