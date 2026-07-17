@@ -19,7 +19,7 @@ currently_learning: "whatever breaks next 😅"
 fun_fact: "Code, learn, improve, repeat."
 ```
 
-- 🎓 Computer Science student at the **University of Minho**
+- 🎓 Software Engineering student at the **University of Minho**
 - 💻 Passionate about software development and problem-solving
 - 🌱 Constantly learning and sharpening my programming skills
 - 🚀 Into Web Development, Algorithms, and Backend Development
@@ -125,9 +125,5 @@ fun_fact: "Code, learn, improve, repeat."
 </div>
 
 ---
-
-<div align="center">
-
-<i>"Code, learn, improve, repeat."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
