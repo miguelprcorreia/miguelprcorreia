@@ -82,6 +82,7 @@ Laboratórios de Informática I - Immutable Towers : https://github.com/miguelpr
 Laboratórios de Informática II - Board Game : https://github.com/miguelprcorreia/Board-Game   [Grade: 20/20] <br>
 Laboratórios de Informática III - Flight Management System : https://github.com/miguelprcorreia/Flight-Management-System   [Grade: 19/20] <br>
 Base de Dados - DigiTrip Database : https://github.com/miguelprcorreia/DigiTrip   [Grade: 18/20] <br>
+Redes de Computadores - Packet Sniffer : https://github.com/miguelprcorreia/Packet-Sniffer <br>
 
 #### 🚀 Personal Projects
 > Experiments with new technologies and side builds outside of university.
