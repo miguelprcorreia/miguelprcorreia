@@ -83,7 +83,8 @@ Laboratórios de Informática II - Board Game : https://github.com/miguelprcorre
 Laboratórios de Informática III - Flight Management System : https://github.com/miguelprcorreia/Flight-Management-System   [Grade: 19/20] <br>
 Base de Dados - DigiTrip Database : https://github.com/miguelprcorreia/DigiTrip   [Grade: 18/20] <br>
 Redes de Computadores - Packet Sniffer : https://github.com/miguelprcorreia/Packet-Sniffer <br>
-Programação Orientada a Objetos - Domus Control : https://github.com/miguelprcorreia/Domus-Control [Grade: 19/20]<br> 
+Programação Orientada a Objetos - Domus Control : https://github.com/miguelprcorreia/Domus-Control [Grade: 19/20] <br> 
+Interface Pessoa Máquina - European Commission Website : https://github.com/miguelprcorreia/European-Comission-Website [Grade: 18.8/20] <br>
 
 #### 🚀 Personal Projects
 > Experiments with new technologies and side builds outside of university.
